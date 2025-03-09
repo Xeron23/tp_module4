@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0FE0D0D7-5960-414B-9898-21115B5233D9}|tpmodul4_103022300073\\tpmodul4_103022300073.csproj|d:\\kuliah\\kpl\\tp\\tpmodul4_103022300073\\tpmodul4_103022300073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FE0D0D7-5960-414B-9898-21115B5233D9}|tpmodul4_103022300073\\tpmodul4_103022300073.csproj|solutionrelative:tpmodul4_103022300073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE0D0D7-5960-414B-9898-21115B5233D9}|tpmodul4_103022300073\\tpmodul4_103022300073.csproj|d:\\kuliah\\kpl\\tp\\tpmodul4_103022300073\\tpmodul4_103022300073\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE0D0D7-5960-414B-9898-21115B5233D9}|tpmodul4_103022300073\\tpmodul4_103022300073.csproj|solutionrelative:tpmodul4_103022300073\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL\\TP\\tpmodul4_103022300073\\tpmodul4_103022300073\\KodePos.cs",
+              "RelativeDocumentMoniker": "tpmodul4_103022300073\\KodePos.cs",
+              "ToolTip": "D:\\Kuliah\\KPL\\TP\\tpmodul4_103022300073\\tpmodul4_103022300073\\KodePos.cs",
+              "RelativeToolTip": "tpmodul4_103022300073\\KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:59:40.378Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "tpmodul4_103022300073\\Program.cs",
               "ToolTip": "D:\\Kuliah\\KPL\\TP\\tpmodul4_103022300073\\tpmodul4_103022300073\\Program.cs",
               "RelativeToolTip": "tpmodul4_103022300073\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T09:30:15.886Z",
               "EditorCaption": ""
