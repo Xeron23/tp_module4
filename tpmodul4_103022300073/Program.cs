@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using tpmodul4_103022300073;
 class Program
 {
     static void Main()
@@ -14,11 +14,11 @@ class Program
         Console.WriteLine(kodePos.GetKodePos("Kujangsari"));
         Console.WriteLine(kodePos.GetKodePos("Mengger"));
 
-        //DoorMachine door = new DoorMachine();
+        DoorMachine door = new DoorMachine();
 
-        //door.BukaPintu();
-        //door.BukaPintu();
-        //door.KunciPintu();
-        //door.KunciPintu();
+        door.BukaPintu();
+        door.BukaPintu();
+        door.KunciPintu();
+        door.KunciPintu();
     }
 }
